@@ -30,7 +30,7 @@ Turn a Vibe Check scorecard into a hiring summary, resume bullets, follow-up que
 
 ## Overview
 
-Hiring Pack takes the six behavioral scores and notes from a [Vibe Check](https://interviews.neorgon.com/) interview and turns them into a decision-ready package: a hiring summary, resume-worthy bullets, targeted follow-up questions, and a suggested reading list. Everything runs in the browser — no signup, no data leaves the page.
+Hiring Pack takes the six behavioral scores and notes from a [Vibe Check](https://interviews.neorgon.com/) interview and turns them into a decision-ready package: a hiring summary, resume-worthy bullets, targeted follow-up questions, and a suggested reading list. Everything runs in the browser. No signup, no data leaves the page.
 
 It's the writing step of the **Hiring Toolkit**, a connected flow across Vibe Check, Resume Forge, Character Sheet, and Playbook.
 
@@ -40,11 +40,11 @@ It's the writing step of the **Hiring Toolkit**, a connected flow across Vibe Ch
 
 ## Features
 
-- **Score-to-summary** — six 1–5 sliders map to a written hiring recommendation
-- **Resume bullets** — generates achievement-framed bullets from the interview notes
-- **Follow-up questions** — surfaces the gaps worth probing in the next round
-- **Reading list** — suggests prep material tied to the candidate's weak spots
-- **Copy & download** — export the full pack as plain text in one click
+- **Score-to-summary**: six 1–5 sliders map to a written hiring recommendation
+- **Resume bullets**: generates achievement-framed bullets from the interview notes
+- **Follow-up questions**: surfaces the gaps worth probing in the next round
+- **Reading list**: suggests prep material tied to the candidate's weak spots
+- **Copy & download**: export the full pack as plain text in one click
 
 ---
 
